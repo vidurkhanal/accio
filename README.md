@@ -92,9 +92,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/vidurkhanal/
 ## Authors
 
 * **Vidur Khanal** - ** - [Vidur Khanal](https://www.github.com/vidurkhanal) - **
-
-## Acknowledgements
-
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
