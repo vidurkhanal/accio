@@ -32,8 +32,11 @@ Accio is a fast and efficient Key-Value (KV) database solution designed for high
 
 
 
+
+
 * [Rust](<a href = "https://www.rust-lang.org/" target = "_blank"><img src="https://rustacean.net/assets/cuddlyferris.png" alt="Rust" width="200"></a>)
 * [Tokio](<a href = "https://tokio.rs" target = "_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tokio_logo.svg/1200px-Tokio_logo.svg.png" alt="Tokio" width="200"></a>)
+* [Clap]( <a href = "https://docs.rs/clap/latest/clap/" target = "_blank"><img src="https://raw.githubusercontent.com/clap-rs/clap/master/assets/clap.png " alt="Tokio" width="200"></a>)
 
 ## Getting Started
 
@@ -90,3 +93,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/vidurkhanal/
 
 * **Vidur Khanal** - ** - [Vidur Khanal](https://www.github.com/vidurkhanal) - **
 
+## Acknowledgements
+
+* [ShaanCoding](https://github.com/ShaanCoding/)
+* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
+* [ImgShields](https://shields.io/)
